@@ -1,2 +1,2 @@
-export const devStr = 'showdown'
+export const devStr = 'showdown2'
 
