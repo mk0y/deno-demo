@@ -1,5 +1,5 @@
-const dev = require('./dev.js')
+import { devStr }  from './dev.js'
 
-console.log(dev.devStr)
+console.log(devStr)
 
 

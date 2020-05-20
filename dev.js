@@ -1,6 +1,2 @@
-const devStr = 'showdown'
-
-module.exports = {
-  devStr,
-}
+export const devStr = 'showdown'
 
